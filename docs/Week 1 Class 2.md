@@ -1,0 +1,55 @@
+Archaeology
+-   Entomology → meaning of words  
+-   Teks meaning to weave or to fabricate
+-   Brown thing with holes → line of code/each piece is one binary bit
+	-   Dracard loom punch cards
+		-   18th century
+	-   They get fed through a machine
+	-   Built on the labour of women
+-   How we see the past affects how we draw from it
+-   Car rogue memory from the space programs
+	-   Copper cable through a magnet to see if its positive or negative
+	-   Made by a team of retired women
+-   The internet is in physical locations
+	-   The cloud is someone’s computer
+	-   Geopolitical implications
+		-   Congo for minerals
+		-   China 
+	-   Cables in the tunnels at carleton on the ceiling are the internet in physical form
+	-   We rarely see the internet in physical form
+	-   There’s a lot going on
+-   Archaeology is the science of human duration
+-   The point (check slides to finish)
+	-   The history of the net has many different aspects
+-   Who are the workers?
+	-   Important statement
+-   space/economy
+	-   The change of a travel that happens in 2 weeks to 2 days
+	-   The reconfiguration of travel in the roman empire
+		-   All weather roads
+	-   Telegraph the first change
+-   Traffic jams are emerged from decisions of cars
+	-   Complex system
+-   The challenger (rocket ship)
+	-   Blew up because a 30mm rubber ring cracked from teh cold caused a chain reaction leading to the explosion 
+	-   Complicated system
+-   Internet is a complex system
+-   Assemblage theory
+	-   Agencement, things come together
+		-   Meaning depends on context
+			-   Both internal, within
+			-   External, in time
+			-   External in space  
+			-   Nothing is meaningful on its own
+	-   Things have their own agency
+-   Own tools extend ourselves into our objects
+	-   Pottery where the clay responds to his mental idea
+		-   Actions are sometimes resisted by the clay
+-   Network present when there is a relationship between 2 or more entities
+	-   What information/power/actions/etc. flows between them
+-   Important to distinguish complex phenomena
+	-   More complex phenomena can emerge from interactions in certain network shapes 
+	-   Networks also provide a formal mechanism through which computation can happen - computation is inherent in the shape of the network
+	-   The components of a networked history are not just the technical objects, but also ()
+-   Humans are meant to be intertwined
+	-   Worrying about how we are perceived by others

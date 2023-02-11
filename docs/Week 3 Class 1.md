@@ -1,0 +1,66 @@
+Can you keep a secret?
+
+- cryptology: systems for 'secret' writing
+- cryptanalysis: systems for revealing those secrets
+- Kahn
+	- secret messages have emerged in multiple places at once
+	- privacy between two or more people
+- Duely
+	- story of spy in the american revolution
+	- woman wanted to get a letter to a british officer
+	- gave it to her ex-husband
+	- the letter was encrypted
+- draw out the 'assemblage' of ideas that makes that story intelligible. what things must come together for such a story to have happened?
+	- why do they have the knowledge of the secret codes
+	- what cypher? substitution
+	- privacy concerns
+- london 1772
+	- blog post that opened to network analysis
+- we don't need to decypher the message, sometimes it's enough to map who is communicating with who
+- pattern of how that message moves can be important
+- a code: variable sized elements that have meaning in the plaintext language - syllables, words, phrases (Dooley); thousands of substitutions
+- a cipher: a transformation from plaintext according to some transformation (Dooley, 5-6); 'small fixed number of substitution elements'
+- polybius
+	- c 200 - c 118 BC
+	- using torches to transmit a message (one indicating the row and the placement)
+	- scytale long string of letters down the rods to encode a message
+- Julius Ceaser
+	- caeser shift
+	- write out the alphabet and you shift it over (by 5)
+- Al-Kindi (one of the great philosophers)
+	- treaties on cryptology
+		- on extracting obscured correspondence
+	- explains how to defeat the ciphers
+	- find common letters and work back from that
+- in europe
+	- roger bacon (13th century) describes various systems of secret writing known to him; may also have encrypted the secret of the philosopher's stone in the same descriotion using a grille (piece of card with holes cut out, fits over the page, reveals words)
+	- otherwise, fairly behind
+- early modern europe (16th to 1800ish)
+	- remember, intro of a new inromation technology in europe (moveable type) is also a marker for this period
+	- faster circulation of ideas
+	- new ideas around relationship of people to god, to each other, nature of government, what is a state, anyway... all these things up for discussion
+	- coinciding with the european age of discovery too...
+- francis bacon and the bi-literal cipher
+	- you can make a cipher out of 2 letters
+	- many combinations possible (256)(2^8)
+	- similar to binary
+- nomenclators
+	- mixture of substitution cyphers and codebooks
+	- still susceptible to frequency analysus and context-dependent guessing
+	- popular in diplomatic circles 1400- to about 1800
+	- Mary Queen of Scotts- nomeclator broken, her attempt to seize power thwarted
+- alphabet square
+	- sentence to encode another sentence
+- french revolution
+	- arm machine that helped encode messages
+	- 2 arms with 2 arms themselves
+	- the 2 main arms had 4 possible angles
+	- secondary arms had 7 possible angles
+	- 196 possible symbols
+- take away
+	- where are the gaps?
+	- where are the women in the story?
+	- who/what is left out?
+	- what other things had to have happened to support all this
+	- remember the becht poem from alst week
+	- messages are never one to one, they can be distorted and abbreviated away from the original meaning

@@ -1,0 +1,143 @@
+Jacquard's the Name, Weaving's the Game
+
+- middle kingdom, ca 1897-1878 BCE. MET.
+	- shows how the older looms were made and used
+	- found in a tomb
+	- one of the oldest technologies in the world
+- Amasis Painter, ca 550-530 BCE. MET.
+	- showed the steps of using a loom for textiles
+	- loom weight depicted, they're found everywhere
+	- social practice
+	- songs that were passed down to help keep people on the beat of using the loom
+- lenin/flax
+	- oldest fabric
+	- you can turn them into a type of thread
+	- you would dye it
+- silk
+	- awfully expensive
+	- silkworm moth
+	- northern china 2700 years ish ago
+	- dropped the cacoon into a tea and the silk came undone (hot water allows the thread to seperate)
+	- 6000 pods --> 1 kilogram of silk
+	- strong, takes colours really well, light
+	- airbags, ww 2 parachutes
+	- luxury item
+	- silk road (asia to europe)
+	- china, rome, india all connected (interlinking network)
+	- drawloom (allowed them to grab the individual threads and slide other threads through them)
+- Justinian 1
+	- brought silk to bosantium
+	- apparently this guy was revolutionary and took back places idk he spoke too fast
+-  drawloom
+	- owning silk garments was a symbol of pwoer and wealth
+	- 2inches per day because its so taxing
+	- takes 2 people to work it
+	- slow - care, feeding, value?
+	- how much land devoted to flax, to mulberries, to sheep, etc?
+	- reproducibility?
+	- training?
+	- think in terms of assemblages, things coming together
+- weaving terms:
+	- warp - the vertical threads, held in tension
+	- weft - the horizontal threads
+	- shed - the space created when some warp threads are lifted up
+	- shuttle - a wooden block used to pull the weft threads through the shed
+	- comb - pushes the threads tight together once the shuttle has passed through
+	- drawloom - enables individual warp threads to be drawn up
+- Lyon
+	- lar valley
+	- 15th century the french king (louie the 11th)
+		- establishes a silk industry in lyon
+		- poached italian weavers to come
+		- gave bonuses to people who could make improvements to the loom
+	- connected to a river that helped the rome's empire
+		- been essential for centuries
+		- trade
+	- individual homes, not a factory
+	- 30k employed in weaving
+- jacques de vaucanson 1709-1782
+	- farting duck?
+		- designed to be fed food, digest it and poop it
+		- party trick
+		- robot
+	- made automotons
+		- flute player
+		- tamberine
+	- designed an automatic loom
+		- still needed 2 people
+		- inspired by music boxes with the teeth wheels that made music
+		- had to change the barrel around
+		- allowed a repeating pattern
+		- never took off
+- joseph-marie jacquard 1752-1834
+	- there's a silk of a painting of him
+	- brackets the french reovlution
+	- counter revolutionist to the revolution
+	- escaped execution by becoming a revolutionary
+	- his father was a weaver
+		- he was living off his inherentance, but returned to lyon pennyless after the revolution
+	- made looms that won innovation expos
+		- gave him enough money to work on looms
+	- created an automated loom (1804)
+		- required many cards that allowed complicated patterns and repeating patterns
+		- jacquard loom
+		- 1 man job
+		- cards are made with another machine which became a hole puncher
+			- turned a drawning into a grid so you know where the designs went
+- Napoleon
+	- put huge effort into fostering technical and scholarly advancement
+	- his government starts putting money into innovation expos
+		- dumped into the silk industry
+- Did Jacquard invent the punch card?
+	- belief related to the cards for the loom
+	- no - Louis Faucon/Falcon in 1728, but in his arrangment, the draw boy had to hold the card in place manually; Faucon improving an idea by his master Basile Bouchon uisng a paper tape with holes in it.
+- Did Jacquard invent automatic lifting of threads
+	- no - Vaucanson's metal cylinders could do that
+- What did JAcquard invent?
+	- An approach that applied threaded together punch cards to the automatic control of the loom.
+		- 24 x speed increase! (ie 2 feet per day)
+		- replicable patterns, complex patterns, multiple machines producing identical swathes of silk
+	- it requires a person to connect social things together
+- What really matters about jacquard's invention are the cards, not the loom
+	- programmable machanical external memory
+	- connected to binary?
+	- early binary?
+- Charles Babbage
+	- dead end (what he wanted to do was beyond the technology at the time)
+	- he really wanted the portrait of jacquard made of silk
+	- Difference Engine / Analytical Engine
+		- 'difference' because it uses the method of differences to calculate tables by adding the differences between items in a series. But had to be set up manually: no cards
+	- there was no way to calculate numbers for projects and travels automatically, it was always connected
+		- wanted to find a way to automate math
+		- he pitched the idea and got a bunch of money to make the machine
+			- never built it, only made a bit of it
+				- only until 2015
+		- he saw the jacquard loom
+			- saw it as a way to collect and store data and to possibly do this math
+			- this only was found to be important 100 years later ish
+- Ada Lovelace
+	- immediately sees the connection to the loom and technology
+	- "We may say most aptly that the Analytical Engine weaves algebraic patterns just as the Jacquard loom weaves flowers and leaves…" - Ada Lovelace
+		- depends upon cards to enter data, output data, store instructions
+	- figures out how to program for babbage's idea
+- S Korsakov (1797-1853)
+	- worked for the st. petersberg police department
+	- publishes a method for searching information stored on punched cards
+	- (Worked for the Russian Police Ministry; the work didn't really penetrate the Anglosphere)
+- Hermin Hollart
+	- worked for the census
+	- they had to go manually to each house and write the data
+	- took then 7  years to calculate the data
+	- his brotehr worked in the silk industry
+	- he made a card for the census based off the loom cards
+		- hole punching on the card over the one that apply
+		- used pins to create a circuit to count with these cards
+	- created a tabulation company with these machines
+	- Coupling punch cards with electro-mechanical counting sets in train the development of the _digital_ computer... which we'll turn to, eventually.
+	- ibm told him to sell it to business and that's when the money came in
+	- listening to this story:
+		- What are the _threads_ that had to come together?
+		- What are the _assemblages_ that enabled these developments?
+		- Who is being _left out_ of the story?
+		- What other _questions_ does this story raise?
+		- Identifying _keywords_ or _key-phrases_ that encapsulate those questions for you will help you surface critical readings (or indeed, primary materials) 
